@@ -25,7 +25,7 @@ function Header() {
             <ul className="navbar-nav nav-justified w-100 nav-fill">
               <li className="nav-item">
                 <a className="nav-link js-scroll-trigger" href="/mac/">
-                  Mac
+                  TiruWork
                 </a>
               </li>
               <li className="nav-item">
